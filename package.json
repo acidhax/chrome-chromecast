@@ -21,7 +21,6 @@
     "smarttv"
   ],
   "dependencies": {
-    "superagent": "^0.17.0",
     "ws": "^0.4.31",
     "xml2json": "^0.4.0",
     "optimist": "^0.6.1",
