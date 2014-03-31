@@ -21,7 +21,6 @@
     "smarttv"
   ],
   "dependencies": {
-    "node-ssdp": "^0.2.1",
     "superagent": "^0.17.0",
     "ws": "^0.4.31",
     "xml2json": "^0.4.0",
